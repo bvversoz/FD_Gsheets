@@ -17,9 +17,9 @@ Once you have the Pieces app installed, you can navigate to the Chrome Web Exten
 
 To use the PFD Google Sheets Integration & Material Manager, you can set your own keyboard shortcut by following these steps:
 
-[web .zipfile](https://drive.google.com/file/d/1loIIPhv3a0gu7l_-AXoHTCNxEFC_Xnwn/view?usp=sharing)
+[web](https://drive.google.com/file/d/1loIIPhv3a0gu7l_-AXoHTCNxEFC_Xnwn/view?usp=sharing) -.zip file
 
-1. Click on the PFD icon in your browser toolbar.
+1. Click on the 'Satellites' icon in your browser toolbar.
 2. Click on the gear icon in the top-right corner of the screen to open the settings menu.
 3. Scroll down to the "Keyboard Shortcuts" section.
 4. Click on the "Change" button next to the "Open PFD" option.
