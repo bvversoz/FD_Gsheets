@@ -1,22 +1,32 @@
-# PFD Google Sheets Integration & Material Manager
+# Satellites Material Viewer
 
 The PFD Google Sheets Integration & Material Manager is a tool that allows developers to easily manage their code snippets, view images, import files, and create custom notes for products. This project consists of several components:
 
-- Pieces for Developers Desktop App
-- Pieces for JetBrains IntelliJ
-- Pieces for VS Code
-- Pieces for Chrome Web Extensions
+## Integrates:
+- Pieces for Developers
+- Google Sheets
+- Chat GPT
+
+
+
+### Product Note Taking Categories
+- **customize your products** coming soon...
+  - Pieces for Developers **Desktop App**
+  - Pieces for JetBrains **IntelliJ**
+  - Pieces for **VS Code**
+  - Pieces for **Chrome Web Extensions**
+  - Pieces for **Teams**
 
 ## Installation
 
 To get started with the PFD Google Sheets Integration & Material Manager, you will need...
 
-### install the Pieces for Developers app. 
+### install the Pieces for Developers app... 
 
 download from the official website: [pieces.app/](https://pieces.app/)
 _Only Pieces OS is required_
 
-### Once Pieces OS is Installed...
+### Install the "Satellites" Web Extension...
 
 download the [**web**](https://drive.google.com/file/d/1loIIPhv3a0gu7l_-AXoHTCNxEFC_Xnwn/view?usp=sharing) _.zip file_
 
@@ -24,9 +34,15 @@ download the [**web**](https://drive.google.com/file/d/1loIIPhv3a0gu7l_-AXoHTCNx
 
 ## Usage
 
-You can set your own keyboard shortcut by following these steps:
+- Storing and managing code snippets, images, and files
+- Creating custom notes and documentation for products
+- Importing and exporting data to Google Sheets
+- Integrating with other development tools like JetBrains IntelliJ and VS Code
+- Viewing Images
+- Prompt Engineering (**Chat GPT**)
 
-
+**Add a Keyboard Shortcut**:
+The PFD Google Sheets Integration & Material Manager (**Satellite Snippet**) can be used for a variety of use cases, such as:
 
 1. Click on the '**puzzle**' icon in your browser toolbar
 2. Click on the '**settings gear**' icon at the bottom of the pop up. "Manage Extensions"
@@ -37,18 +53,7 @@ You can set your own keyboard shortcut by following these steps:
 
 Once you have set your keyboard shortcut, you can use it to open the **Satellite Snippet** web extension at any time!
 
-## Use Cases and Value Propositions
-
-The PFD Google Sheets Integration & Material Manager (**Satellite Snippet**) can be used for a variety of use cases, such as:
-
-- Storing and managing code snippets, images, and files
-- Creating custom notes and documentation for products
-- Importing and exporting data to Google Sheets
-- Integrating with other development tools like JetBrains IntelliJ and VS Code
-- Viewing Images
-- Prompt Engineering (**Chat GPT**)
-
-The value propositions of the PFD Google Sheets Integration & Material Manager include:
+## Value Prop:
 
 - **Increased productivity and efficiency for developers**
 - **Better organization and management of development resources**
