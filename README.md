@@ -9,22 +9,31 @@ The PFD Google Sheets Integration & Material Manager is a tool that allows devel
 
 ## Installation
 
-To get started with the PFD Google Sheets Integration & Material Manager, you will need to install the Pieces for Developers app. You can download it from the official website at [https://pieces.app/](https://pieces.app/).
+To get started with the PFD Google Sheets Integration & Material Manager, you will need...
 
-Once you have the Pieces app installed, you can navigate to the Chrome Web Extensions section in the app to install the PFD Google Sheets Integration & Material Manager web extension.
+### install the Pieces for Developers app. 
+
+download from the official website: [pieces.app/](https://pieces.app/)
+_Only Pieces OS is required_
+
+### Once Pieces OS is Installed...
+
+download the web[**web**](https://drive.google.com/file/d/1loIIPhv3a0gu7l_-AXoHTCNxEFC_Xnwn/view?usp=sharing) _.zip file_
+
+
 
 ## Usage
 
-To use the PFD Google Sheets Integration & Material Manager, you can set your own keyboard shortcut by following these steps:
+You can set your own keyboard shortcut by following these steps:
 
-[web](https://drive.google.com/file/d/1loIIPhv3a0gu7l_-AXoHTCNxEFC_Xnwn/view?usp=sharing) -.zip file
 
-1. Click on the 'Satellites' icon in your browser toolbar.
-2. Click on the gear icon in the top-right corner of the screen to open the settings menu.
-3. Scroll down to the "Keyboard Shortcuts" section.
-4. Click on the "Change" button next to the "Open PFD" option.
+
+1. Click on the '**puzzle**' icon in your browser toolbar
+2. Click on the '**settings gear**' icon at the bottom of the pop up. "Manage Extensions"
+3. select "Keyboard Shortcuts"
+4. locate the "satellites" Web Extension.
 5. Press the key combination that you want to use as your shortcut.
-6. Click on "Save" to confirm your changes.
+6. Click on "**update**" to confirm your changes.
 
 Once you have set your keyboard shortcut, you can use it to open the PFD Google Sheets Integration & Material Manager at any time.
 
