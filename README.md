@@ -18,7 +18,7 @@ _Only Pieces OS is required_
 
 ### Once Pieces OS is Installed...
 
-download the web[**web**](https://drive.google.com/file/d/1loIIPhv3a0gu7l_-AXoHTCNxEFC_Xnwn/view?usp=sharing) _.zip file_
+download the [**web**](https://drive.google.com/file/d/1loIIPhv3a0gu7l_-AXoHTCNxEFC_Xnwn/view?usp=sharing) _.zip file_
 
 
 
@@ -30,21 +30,23 @@ You can set your own keyboard shortcut by following these steps:
 
 1. Click on the '**puzzle**' icon in your browser toolbar
 2. Click on the '**settings gear**' icon at the bottom of the pop up. "Manage Extensions"
-3. select "Keyboard Shortcuts"
-4. locate the "satellites" Web Extension.
-5. Press the key combination that you want to use as your shortcut.
+3. select "**Keyboard Shortcuts**"
+4. locate the "**Satellites**" Web Extension.
+5. Press the key combination that you want to use as your shortcut. for ex. [ cmd + a ] 
 6. Click on "**update**" to confirm your changes.
 
-Once you have set your keyboard shortcut, you can use it to open the PFD Google Sheets Integration & Material Manager at any time.
+Once you have set your keyboard shortcut, you can use it to open the **Satellite Snippet** web extension at any time!
 
 ## Use Cases and Value Propositions
 
-The PFD Google Sheets Integration & Material Manager can be used for a variety of use cases, such as:
+The PFD Google Sheets Integration & Material Manager (**Satellite Snippet**) can be used for a variety of use cases, such as:
 
 - Storing and managing code snippets, images, and files
 - Creating custom notes and documentation for products
 - Importing and exporting data to Google Sheets
 - Integrating with other development tools like JetBrains IntelliJ and VS Code
+- Viewing Images
+- Prompt Engineering (**Chat GPT**)
 
 The value propositions of the PFD Google Sheets Integration & Material Manager include:
 
