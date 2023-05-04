@@ -1,7 +1,5 @@
 # PFD Google Sheets Integration & Material Manager
 
-
-
 The PFD Google Sheets Integration & Material Manager is a tool that allows developers to easily manage their code snippets, view images, import files, and create custom notes for products. This project consists of several components:
 
 - Pieces for Developers Desktop App
@@ -14,15 +12,6 @@ The PFD Google Sheets Integration & Material Manager is a tool that allows devel
 To get started with the PFD Google Sheets Integration & Material Manager, you will need to install the Pieces for Developers app. You can download it from the official website at [https://pieces.app/](https://pieces.app/).
 
 Once you have the Pieces app installed, you can navigate to the Chrome Web Extensions section in the app to install the PFD Google Sheets Integration & Material Manager web extension.
-
-To do this, follow these steps:
-
-1. Open your Chrome browser.
-2. Go to `chrome://extensions` in the address bar.
-3. Enable "Developer mode" by toggling the switch in the top-right corner of the screen.
-4. Click on the "Load unpacked" button in the top-left corner of the screen.
-5. Select the folder where you have downloaded the PFD Google Sheets Integration & Material Manager web extension.
-6. Once the extension is loaded, you should see the PFD icon in your browser toolbar.
 
 ## Usage
 
