@@ -1,5 +1,7 @@
 # PFD Google Sheets Integration & Material Manager
 
+
+
 The PFD Google Sheets Integration & Material Manager is a tool that allows developers to easily manage their code snippets, view images, import files, and create custom notes for products. This project consists of several components:
 
 - Pieces for Developers Desktop App
